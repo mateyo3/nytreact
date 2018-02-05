@@ -2,6 +2,8 @@
 
 React-based rendition of the New York Times Article Search application. This assignment requires you to create React components, work with helper/util functions, and utilize the React mounting lifecycle to query and display articles based on user searches. 
 
+Live link: https://warm-forest-95527.herokuapp.com/
+
 ## Built With
 JavaScript, Node, Express, MongoDB, and Bootstrap
 
