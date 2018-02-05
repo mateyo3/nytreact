@@ -1,8 +1,8 @@
 import React from "react";
 
-const Saved = () =>
+const Results = () =>
   <div className="panel-body">
-	List of Saved Articles
+	List of Results
   </div>;
 
-export default Saved;
+export default Results;
